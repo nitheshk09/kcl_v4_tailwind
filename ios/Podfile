@@ -31,5 +31,15 @@ target 'MyProject' do
       :mac_catalyst_enabled => false,
       # :ccache_enabled => true
     )
+
+    installer.pods_project.targets.each do |target|
+      next unless target.name == 'RNReanimated'
+
+      target.build_configurations.each do |config|
+        config.build_settings['REANIMATED_USE_NEW_ARCHITECTURE'] = '0'
+        config.build_settings['CC'] = '/usr/bin/clang'
+        config.build_settings['CXX'] = '/usr/bin/clang++'
+      end
+    end
   end
 end

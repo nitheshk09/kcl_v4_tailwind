@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .app-screen-bg {
+    @apply bg-surface-light dark:bg-surface-dark;
+  }
+
+  .app-header-text {
+    @apply text-text-light dark:text-text-dark;
+  }
+
+  .app-primary-btn {
+    @apply bg-indigo-500 dark:bg-purple-500;
+  }
+
+  .app-card-text {
+    @apply text-white;
+  }
+
+  .app-theme-transition {
+    @apply transition-colors duration-300 ease-in-out;
+  }
+
+  .app-card-theme-1 {
+    @apply bg-indigo-600;
+  }
+
+  .app-card-theme-2 {
+    @apply bg-purple-600;
+  }
+
+  .app-card-theme-3 {
+    @apply bg-sky-600;
+  }
+
+  .app-card-theme-4 {
+    @apply bg-emerald-600;
+  }
+}
