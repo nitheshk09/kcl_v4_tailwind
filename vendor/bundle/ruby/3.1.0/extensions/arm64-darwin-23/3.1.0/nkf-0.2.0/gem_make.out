@@ -1,0 +1,15 @@
+current directory: /Users/nagasainathreddy/MyProject/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+/Users/nagasainathreddy/.rbenv/versions/3.1.0/bin/ruby -I /Users/nagasainathreddy/.rbenv/versions/3.1.0/lib/ruby/3.1.0 -r ./siteconf20250923-33753-azoepg.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nagasainathreddy/MyProject/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= clean
+
+current directory: /Users/nagasainathreddy/MyProject/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\=
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/nagasainathreddy/MyProject/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250923-33753-ekear8
