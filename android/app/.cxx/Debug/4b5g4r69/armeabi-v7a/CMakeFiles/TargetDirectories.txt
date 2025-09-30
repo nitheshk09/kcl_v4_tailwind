@@ -1,0 +1,12 @@
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/rnreanimated_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/rnreanimated_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/rnworklets_autolinked_build/CMakeFiles/react_codegen_rnworklets.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/rnworklets_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/armeabi-v7a/rnworklets_autolinked_build/CMakeFiles/rebuild_cache.dir
