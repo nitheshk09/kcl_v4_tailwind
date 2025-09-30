@@ -1,0 +1,4 @@
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/.cxx/Debug/4b5g4r69/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

@@ -1,26 +1,26 @@
 {
-  "root": "/Users/nagasainathreddy/MyProject",
-  "reactNativePath": "/Users/nagasainathreddy/MyProject/node_modules/react-native",
+  "root": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind",
+  "reactNativePath": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native",
   "reactNativeVersion": "0.81",
   "dependencies": {
     "react-native-reanimated": {
-      "root": "/Users/nagasainathreddy/MyProject/node_modules/react-native-reanimated",
+      "root": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-reanimated",
       "name": "react-native-reanimated",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/nagasainathreddy/MyProject/node_modules/react-native-reanimated/RNReanimated.podspec",
+          "podspecPath": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-reanimated/RNReanimated.podspec",
           "version": "4.1.2",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/nagasainathreddy/MyProject/node_modules/react-native-reanimated/android",
+          "sourceDir": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-reanimated/android",
           "packageImportPath": "import com.swmansion.reanimated.ReanimatedPackage;",
           "packageInstance": "new ReanimatedPackage()",
           "buildTypes": [],
           "libraryName": "rnreanimated",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/nagasainathreddy/MyProject/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -29,17 +29,17 @@
       }
     },
     "react-native-safe-area-context": {
-      "root": "/Users/nagasainathreddy/MyProject/node_modules/react-native-safe-area-context",
+      "root": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-safe-area-context",
       "name": "react-native-safe-area-context",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/nagasainathreddy/MyProject/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
+          "podspecPath": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
           "version": "5.6.1",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/nagasainathreddy/MyProject/node_modules/react-native-safe-area-context/android",
+          "sourceDir": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-safe-area-context/android",
           "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
           "packageInstance": "new SafeAreaContextPackage()",
           "buildTypes": [],
@@ -48,7 +48,7 @@
             "RNCSafeAreaProviderComponentDescriptor",
             "RNCSafeAreaViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/nagasainathreddy/MyProject/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -57,23 +57,23 @@
       }
     },
     "react-native-worklets": {
-      "root": "/Users/nagasainathreddy/MyProject/node_modules/react-native-worklets",
+      "root": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-worklets",
       "name": "react-native-worklets",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/nagasainathreddy/MyProject/node_modules/react-native-worklets/RNWorklets.podspec",
+          "podspecPath": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-worklets/RNWorklets.podspec",
           "version": "0.5.1",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/nagasainathreddy/MyProject/node_modules/react-native-worklets/android",
+          "sourceDir": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-worklets/android",
           "packageImportPath": "import com.swmansion.worklets.WorkletsPackage;",
           "packageInstance": "new WorkletsPackage()",
           "buildTypes": [],
           "libraryName": "rnworklets",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/nagasainathreddy/MyProject/node_modules/react-native-worklets/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/node_modules/react-native-worklets/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -244,7 +244,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/Users/nagasainathreddy/MyProject"
+          "default": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind"
         },
         {
           "name": "--platform <string>",
@@ -544,7 +544,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "/Users/nagasainathreddy/MyProject/ios",
+      "sourceDir": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/ios",
       "xcodeProject": {
         "name": "MyProject.xcworkspace",
         "path": ".",
@@ -553,7 +553,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "/Users/nagasainathreddy/MyProject/android",
+      "sourceDir": "/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android",
       "appName": "app",
       "packageName": "com.myproject",
       "applicationId": "com.myproject",
