@@ -1,0 +1,1 @@
+/Users/nagasainathreddy/kcl_fork/kcl_v4_tailwind/android/app/build/intermediates/cxx/Debug/4b5g4r69/obj/arm64-v8a
